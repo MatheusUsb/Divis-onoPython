@@ -1,2 +1,2 @@
-# Divis-onoPython
+# DivisaonoPython
 Script que realiza divisões
